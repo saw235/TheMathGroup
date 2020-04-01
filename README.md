@@ -1,6 +1,7 @@
 # TheMathGroup
 
 This is originally posted by one of the repository hosted here in Github. But it was DMCA'd and gotten removed due to it being a repository of a bunch of books. Here are the full curriculum that I saved before it was taken down. The resources are easily google-able. 
+
 The only thing I would skip here would be Russell's Principles of Mathematics. It is more of a philosophical book in my opinion and is fairly technical to read. It could be revisited after completing the rest of the curriculum if you have time. 
 
 ## Curriculum:
